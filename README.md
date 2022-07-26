@@ -25,8 +25,5 @@ No more update will come on this project cause discord super strict about BOTs a
 
 > Developer: Leiam Nash <br> Program code by: Leiam Nash <br> Language: Python & JavaScript
 
-
-<br> <br> Leiam Nash and Izumi Kun is the same person also my original name is  `Leiam Nash` i change my Facebook name to `Izumi Kun` cause that name means <br> `Spring or Fountain` cause i started doing this on <br> `spring season`
-
 <br> <br>
 - [ ] Leiam Nash
